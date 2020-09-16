@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f4b4d3-9db6-46f8-b9b3-7f60a2a36475" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/logback/introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/logback/introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud/Overview.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591338676859</updated>
       <workItem from="1591338679155" duration="2368000" />
+      <workItem from="1593414307103" duration="3803000" />
     </task>
     <servers />
   </component>
